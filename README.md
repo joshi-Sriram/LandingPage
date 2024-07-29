@@ -9,9 +9,6 @@ Welcome to the **HTML/CSS Landing Page** project! This repository contains a bea
 - **Customizable**: Easy to modify and personalize to fit your brand or project.
 - **SEO Friendly**: Structured with best practices to help improve visibility on search engines.
 
-## Screenshots
-
-![Landing Page Screenshot](screenshot.png)
 
 ## Getting Started
 
